@@ -1,5 +1,6 @@
 //
 // Created by mwo on 23/11/16.
+// Modified by Richard on 9/9/2019.
 //
 
 #ifndef XMRBLOCKS_VERSION_H_IN_H
